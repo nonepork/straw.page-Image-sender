@@ -1,0 +1,4 @@
+customtkinter
+fake_useragent
+Pillow
+Requests

@@ -1,5 +1,8 @@
 # straw.page Image sender
 
+### Update
+No longer works.
+
 ### Disclaimer  
 
 This project is intended for educational purposes only.
